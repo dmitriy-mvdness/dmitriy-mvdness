@@ -6,7 +6,7 @@ Go Backend Developer
 
 - Building backend systems in Go  
 - Creating CLI tools and backend APIs for everyday use  
-- Working with PostgreSQL, Docker, and REST APIs  
+- Working with PostgreSQL, Docker
 - Writing code for ~1.5 years, recently focused more on personal projects and practical tools  
 - Interested in building reliable and maintainable backend systems  
 
