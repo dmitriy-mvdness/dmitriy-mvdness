@@ -1,4 +1,4 @@
-# Hi, I'm Dmitriy 👋
+# Hi there, I'm Dmitriy 👋
 
 Go Backend Developer
 
